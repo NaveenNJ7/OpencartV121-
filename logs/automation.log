@@ -1,0 +1,23 @@
+14:47:01.311 [main] INFO  testCase.TC_001AccountRegistrationTest - Starting Account RegistrationTest
+14:47:01.488 [main] INFO  testCase.TC_001AccountRegistrationTest - Clicked on MyAccount
+14:47:01.859 [main] INFO  testCase.TC_001AccountRegistrationTest - Clicked on Register
+14:47:01.862 [main] INFO  testCase.TC_001AccountRegistrationTest - Providing Customer details......
+14:47:02.987 [main] INFO  testCase.TC_001AccountRegistrationTest - Validating expected Message
+14:47:03.011 [main] ERROR testCase.TC_001AccountRegistrationTest - Test Failed
+14:47:03.011 [main] DEBUG testCase.TC_001AccountRegistrationTest - Debug logs
+14:47:52.538 [main] INFO  testCase.TC_001AccountRegistrationTest - Starting Account RegistrationTest
+14:47:52.790 [main] INFO  testCase.TC_001AccountRegistrationTest - Clicked on MyAccount
+14:47:53.111 [main] INFO  testCase.TC_001AccountRegistrationTest - Clicked on Register
+14:47:53.112 [main] INFO  testCase.TC_001AccountRegistrationTest - Providing Customer details......
+14:47:54.131 [main] INFO  testCase.TC_001AccountRegistrationTest - Validating expected Message
+14:47:54.159 [main] ERROR testCase.TC_001AccountRegistrationTest - Test Failed
+14:47:54.159 [main] DEBUG testCase.TC_001AccountRegistrationTest - Debug logs
+15:32:40.055 [main] INFO  testCase.TC_002MyAccountTest - Starting TC002_MyAccount Test
+15:32:40.461 [main] INFO  testCase.TC_002MyAccountTest - Providing user credentials
+15:32:41.246 [main] INFO  testCase.TC_002MyAccountTest - Validating MyAccount Heading
+15:37:30.685 [main] INFO  testCase.TC_002MyAccountTest - *****Starting TC002_MyAccount Test*****
+15:37:30.979 [main] INFO  testCase.TC_002MyAccountTest - Clicked on MyAccount
+15:37:31.192 [main] INFO  testCase.TC_002MyAccountTest - Clicked on Login
+15:37:31.193 [main] INFO  testCase.TC_002MyAccountTest - Providing user credentials
+15:37:32.028 [main] INFO  testCase.TC_002MyAccountTest - Validating MyAccount Heading
+15:37:32.060 [main] INFO  testCase.TC_002MyAccountTest - *****Testing Finished******
